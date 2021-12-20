@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg3983"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="aerofoilshell.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3985"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.6997475"
+     inkscape:cx="366.23087"
+     inkscape:cy="694.80909"
+     inkscape:window-width="1360"
+     inkscape:window-height="705"
+     inkscape:window-x="1759"
+     inkscape:window-y="266"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3980">
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#path3582,0,1|"
+       id="path-effect4744" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path3582"
+       style="color:#000000;fill:#000000;stroke:none;stroke-width:0.264583;-inkscape-stroke:none"
+       d="m 129.58626,185.98588 c 21.99506,5.38844 43.57028,12.31686 65.33972,18.53034 2.6604,0.14087 3.24635,1.4165 1.97971,3.70551 -13.37111,-3.91587 -26.74221,-7.83173 -40.11332,-11.7476 H 63.330565 c -7.899675,-0.36765 -16.312229,1.26477 -23.646728,-2.43471 -5.801304,-2.95156 1.212033,-8.29927 4.743909,-9.32732 11.935605,-4.63354 24.977527,-5.24461 37.643696,-5.65083 16.002095,0.23771 31.933888,3.29805 47.514818,6.92461 z m -48.999482,-3.90979 c -12.296338,0.58997 -25.255635,1.03795 -36.634193,6.18745 -7.13421,2.82352 1.278358,5.31312 5.012705,5.13143 32.483014,0.18462 64.97383,0.027 97.45985,0.0794 -21.4986,-5.80771 -43.44503,-11.22584 -65.838362,-11.3983 z m -42.217582,7.75093 c -0.165149,0.0325 -0.659021,0.36143 0,0 z m -0.34054,0.16743 c -0.303978,0.14948 -0.770631,0.84948 0,0 z m 2.04121,2.09031 c -0.04427,0.0681 0.0012,0.0273 0,0 z"
+       sodipodi:nodetypes="cccssscccsssscscccccc" />
+  </g>
+</svg>

@@ -1,0 +1,74 @@
+...Comp Geom...
+21 Num Comps
+31 Total Num Meshes
+15964 Total Num Tris
+
+Theo_Area   Wet_Area   Theo_Vol    Wet_Vol  Name
+ 1256.590   1256.388    674.592    665.963  Wing           
+ 1256.590   1256.388    674.592    665.963  Wing           
+   27.397     26.902      2.006      1.945  Strut          
+   27.397     26.902      2.006      1.945  Strut          
+    6.287      5.979      0.453      0.425  Strut          
+    6.287      5.979      0.453      0.425  Strut          
+   32.979     32.979     14.351     14.170  Motor          
+    1.542      1.005      0.103      0.066  Axle           
+   63.058     63.058      7.140      7.050  PropGeom       
+   63.058     63.058      7.140      7.050  PropGeom       
+    5.785      5.648      0.861      0.830  PropRing       
+   62.000     62.000     30.000     29.621  Box            
+   60.500     60.500     26.250     25.918  Box            
+  152.029    211.192      8.327      8.327  VertStab       
+   15.195     14.521      1.772      1.672  RudderTip      
+  212.995    212.430     14.284     14.066  RudderMain     
+   50.478     40.395      4.100      3.240  VertStab       
+  173.131    167.431     23.949     22.868  HorizStab      
+  135.349    130.135     18.171     17.250  Elevator       
+   23.670     23.577      2.880      2.833  ElevatorTip    
+   23.670     22.037      2.880      2.648  ElevatorTip    
+   69.485     69.436     38.269     37.760  Wheel          
+   69.485     69.436     38.269     37.760  Wheel          
+    9.472      5.850      0.687      0.419  Strut          
+    9.472      6.411      0.687      0.459  Strut          
+    7.196      6.896      0.520      0.492  Strut          
+    7.196      6.896      0.520      0.492  Strut          
+   12.366     12.366      3.062      3.023  Wheel          
+-------------------------------------------------
+ 3840.661   3865.795   1598.325   1574.678  Totals         
+
+Tag_Theo_Area   Tag_Wet_Area    Tag_Name
+     1256.590       1256.388    Wing_Surf0     
+     1256.590       1256.388    Wing_Surf1     
+       27.397         26.902    Strut_Surf0    
+       27.397         26.902    Strut_Surf1    
+        6.287          5.979    Strut_Surf0    
+        6.287          5.979    Strut_Surf1    
+        0.000          0.000    Fuselage_Surf0 
+       32.979         32.979    Motor_Surf0    
+        1.542          1.005    Axle_Surf0     
+       63.058         63.058    PropGeom_Surf0 
+       63.058         63.058    PropGeom_Surf1 
+        5.785          5.648    PropRing_Surf0 
+       62.000         62.000    Box_Surf0      
+       60.500         60.500    Box_Surf0      
+      152.029        211.192    VertStab_Surf0 
+       15.195         14.521    RudderTip_Surf0
+      212.995        212.430    RudderMain_Surf0
+       50.478         40.395    VertStab_Surf0 
+       86.565         83.371    HorizStab_Surf0
+       86.565         84.060    HorizStab_Surf1
+       67.674         64.797    Elevator_Surf0 
+       67.674         65.338    Elevator_Surf1 
+       23.670         23.577    ElevatorTip_Surf0
+       23.670         22.037    ElevatorTip_Surf1
+       69.485         69.436    Wheel_Surf0    
+       69.485         69.436    Wheel_Surf1    
+        9.472          5.850    Strut_Surf0    
+        9.472          6.411    Strut_Surf1    
+        7.196          6.896    Strut_Surf0    
+        7.196          6.896    Strut_Surf1    
+       12.366         12.366    Wheel_Surf0    
+WARNING: 1 open meshes removed
+     Removed: Fuselage
+WARNING: 2 open meshes merged
+     Merged: HorizStab
+     Merged: Elevator
